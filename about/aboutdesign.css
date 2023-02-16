@@ -1,0 +1,135 @@
+body{  
+   font-family: 'Inter', sans-serif
+}
+
+.welcome{
+   color:rgb(19, 19, 100);
+   background:rgb(243, 239, 239);
+   
+   border-radius:10px;
+   padding-top:1px;
+   padding-left:15px;
+   height:100px 
+}
+.welcome h4{
+   padding-left:5px;
+   margin-top:-35px;
+}
+
+
+button{
+   background-color:rgb(19, 19, 100);
+   color:white;
+   margin-left:25px;
+   margin-top:10px;
+   padding:7px;
+   padding-right:50px;
+   padding-left:50px;
+   border:none;
+   border-radius:50px;   
+   transition:ease-out 0.3s; 
+   box-shadow:inset 0 0 0 0 rgb(252, 248, 248);
+}
+
+button .about{
+   background-color:white;
+}
+
+.about button{
+ background-color:rgb(252, 248, 248);;
+ color:rgb(19, 19, 100);
+}
+
+.about{
+   margin-left:700px;
+   margin-top:-45px;
+}
+.inst{
+  margin-left:860px;
+  margin-top:-39px;
+}
+.contact{
+  margin-left:1065px;
+  margin-top:-39px;
+}
+.ho{
+   margin-left:560px;
+   margin-top:-39px;
+}
+
+img{
+   position:relative;
+   z-index:-1;
+   width:400px;
+   height:auto;
+   padding-top:50px;
+   padding-left:850px;
+   
+}
+
+.info{
+   margin-top:-420px;
+   margin-left:50px;
+   font-size:20px;
+   color:rgb(19, 19, 100);
+}
+.sub{
+   margin-left:30px;
+}
+
+.home{
+margin-left:435px;
+margin-top:-39px;
+}
+
+.details1{
+   background-color:rgb(243, 239, 239);
+   border-radius:50px;
+   padding:15px;
+   text-align: center;
+   font-size:20px;
+   max-width:200px;
+   margin-left:110px;
+   margin-top:45px;
+}
+
+.details2{
+   background-color:rgb(243, 239, 239);
+   border-radius:50px;
+   padding:15px;
+   text-align: center;
+   font-size:20px;
+   max-width:200px;
+   margin-top:20px;
+   margin-left:110px;
+}
+
+.details3{
+   background-color:rgb(243, 239, 239);
+   border-radius:50px;
+   padding:15px;
+   text-align: center;
+   font-size:20px;
+   max-width:200px;
+   margin-top:-244px;
+   margin-left:370px;
+   
+}
+
+.details4{
+   background-color:rgb(243, 239, 239);
+   border-radius:50px;
+   padding:15px;
+   text-align: center;
+   font-size:20px;
+   max-width:200px;
+   margin-top:22px;
+   margin-left:370px;
+   
+}
+
+button:hover{
+   border:none;
+   box-shadow:inset 200px 0 0 0 rgb(252, 248, 248);
+   color:rgb(19, 19, 100);
+}
